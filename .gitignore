@@ -1,0 +1,6 @@
+.history
+
+project/target/
+target/
+
+*.sublime-*
